@@ -9,3 +9,4 @@ Creating a new branch is quick.
 Creating to a new branch 'feature1'
 >>>>>>> feature1
 ....
+hello
